@@ -3,7 +3,7 @@
 
 -I love games 👌
 
-I'm currently work in a demo game for my TCC
+-I'm currently work in a demo game for my TCC
 
 <!--
 **Rafael27226/Rafael27226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
