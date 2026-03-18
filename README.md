@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm currently learning Python and GDScript🤖
+I love games 👌
 
 <!--
 **Rafael27226/Rafael27226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
